@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @golffer420014
-- 👀 I’m interested in you
-- 🌱 I’m currently learning linux os
 - ⚡ Fun fact: i am atomic
 
 <!---
