@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @golffer420014
-- ⚡ Fun fact: i am atomic
+- 👋 Hi, I’m golf
+- ⚡ Fun fact: i lovely...
 
 <!---
 golffer420014/golffer420014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
