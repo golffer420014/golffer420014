@@ -50,7 +50,6 @@ I am a **Full Stack Web Developer** graduated from **Rattana Bundit University (
 #### **Programmer** at Zego Travel (Aug 2024 - Present)
 - พัฒนาระบบภายในองค์กร เช่น ระบบจัดการทัวร์และระบบหลังบ้าน
 - แก้บั๊ก, Refactor โค้ด และพัฒนาฟีเจอร์ใหม่ตามความต้องการของธุรกิจ
-- ช่วยเพิ่มประสิทธิภาพการทำงานของทีม
 
 
 
