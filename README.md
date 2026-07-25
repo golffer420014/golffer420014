@@ -5,7 +5,7 @@
   <h3>🚀 Full Stack Web Developer | Passionate about Clean Code & Great UX</h3>
  
   <p>
-    <em>"I enjoy turning ideas into smooth, beautiful, and maintainable web applications."</em>
+    <em>"I enjoy turning ideas into smooth, beautiful,å and maintainable web applications."</em>
   </p>
   <p>
     <a href="mailto:golf.suriya.dev@hotmail.com">
@@ -17,6 +17,10 @@
     <a href="https://www.linkedin.com/in/suriya-phalakasikorn-052617369/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+       <a href="https://portfolio-suriya-p.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+    </a>
+
   </p>
 </div>
 
